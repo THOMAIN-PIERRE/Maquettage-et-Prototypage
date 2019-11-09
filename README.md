@@ -1,7 +1,7 @@
 # Maquettage-et-Prototypage
 
 
-Fiche Profil :
+<b>Fiche Profil :</b>
 
 [Maquette version mobile largeur écran inf à 768px](https://www.figma.com/file/9Hn7ubWMuyyvYDYAQmQRl9/Maquettage-version-mobile-largeur-%C3%A9cran-inf-%C3%A0-768px?node-id=0%3A1)
 
@@ -11,11 +11,11 @@ Fiche Profil :
 
 
 
-Maquettage DOJO :
+# Maquettage DOJO :
 
 [Exercice 1 : maquettage BarberShop (version desktop)](https://www.figma.com/file/fDyIA3SEnUyX3ETOqPGY3K/Maquettage-Desktop-DOJO?node-id=0%3A1)
 
-[Exercice 2 : maquettage BarberShop version mobile + prototypage](https://www.figma.com/file/Pxu23UrEgZyiK4wAdzM5bk/Maquettage-mobile-DOJO-version-2?node-id=0%3A1)
+[Exercice 2 : maquettage BarberShop version mobile + prototypage](https://www.figma.com/file/Pxu23UrEgZyiK4wAdzM5bk/Maquettage-mobile-DOJO-version-2?node-id=6%3A1)
 
 
 
